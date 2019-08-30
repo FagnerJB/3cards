@@ -1,6 +1,6 @@
 # Sandbox
 
 Small random projects and experiments.
-by [https://fagnerjb.com Fagner JB.]
+See demos in [Fagner JB.](https://fagnerjb.com#portfolio)
 
-* ``Teló`` - 3-cards Monte trick prank, JS/CSS.
+* **[Finding Teló](https://github.com/FagnerJB/sandbox/tree/master/3cards-prank)** - 3-cards Monte trick prank; JS/CSS.
