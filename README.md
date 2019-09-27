@@ -1,6 +1,5 @@
-# Sandbox
+# 3-cards Monte
 
-Small random projects and experiments.
-See demos in [Fagner JB.](https://fagnerjb.com#portfolio)
+This is a prank, made with pure JS and CSS animations.
 
-* **[Finding Teló](https://github.com/FagnerJB/sandbox/tree/master/3cards-prank)** - 3-cards Monte trick prank; JS/CSS.
+As see in: [Finding Teló](https://fagnerjb.com/app/telo)
